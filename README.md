@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/TRELLO-306bb0?style=flat-square&logo=TRELLO&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/FIGMA-c8a32?style=flat-square&logo=FIGMA&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/GITHUB-120801?style=flat-square&logo=GITHUB&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/POSTMAN-d66d1c?style=flat-square&logo=POSTMAN&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/POSTMAN-ff8221?style=flat-square&logo=POSTMAN&logoColor=white"/></a> &nbsp
 
 
 
