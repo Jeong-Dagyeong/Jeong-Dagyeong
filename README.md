@@ -3,6 +3,9 @@
 * ##### I like to talk to people, and I want to become a front-end developer and leave a mark on the Internet world!
 </hr>
 
+### Contact me 🙌
+[https://blog.naver.com/jdk6779]
+
 
 <h4 align="center"><b>🛠 Tech Stack</b></h4>
 </br>
@@ -20,7 +23,7 @@
 <img src="https://img.shields.io/badge/FIGMA-c8a32?style=flat-square&logo=FIGMA&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/GITHUB-120801?style=flat-square&logo=GITHUB&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/POSTMAN-ff8221?style=flat-square&logo=POSTMAN&logoColor=white"/></a> &nbsp
-
+<br/>
 
 
 [![Jeong-Dagyeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeong-Dagyeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Jeong-Dagyeong)
