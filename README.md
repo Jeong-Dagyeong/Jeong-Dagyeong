@@ -15,7 +15,10 @@
 <h4 align="center"><b>👀 Tools</b></h4>
 <p align="center">
 <img src="https://img.shields.io/badge/TRELLO-306bb0?style=flat-square&logo=TRELLO&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/FIGMA-e09963?style=flat-square&logo=FIGMA&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/FIGMA-c8a32?style=flat-square&logo=FIGMA&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/GITHUB-120801?style=flat-square&logo=GITHUB&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/POSTMAN-d66d1c?style=flat-square&logo=POSTMAN&logoColor=white"/></a> &nbsp
+
 
 
 [![Jeong-Dagyeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeong-Dagyeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Jeong-Dagyeong)
