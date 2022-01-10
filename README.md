@@ -30,3 +30,7 @@ My daily life
 [![Jeong-Dagyeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeong-Dagyeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Jeong-Dagyeong)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeong-Dagyeong&show_icons=true&theme=radical)
+
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jeong-Dagyeong)](https://github.com/anuraghazra/github-readme-stats)
+
+
