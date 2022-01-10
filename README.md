@@ -11,7 +11,9 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Vue.js-46a327?style=flat-square&logo=Vue.js&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/MONGODB-1e9e44?style=flat-square&logo=MONGODB&logoColor=white"/></a> &nbsp
 
+<br/>
 <h4 align="center"><b>👀 Tools</b></h4>
 <p align="center">
 <img src="https://img.shields.io/badge/TRELLO-306bb0?style=flat-square&logo=TRELLO&logoColor=white"/></a> &nbsp
@@ -20,5 +22,5 @@
 <img src="https://img.shields.io/badge/POSTMAN-ff8221?style=flat-square&logo=POSTMAN&logoColor=white"/></a> &nbsp
 
 
-
+<br/>
 [![Jeong-Dagyeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeong-Dagyeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Jeong-Dagyeong)
