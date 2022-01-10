@@ -1,9 +1,14 @@
 ### About me 👋
-* ##### A person who goes in step with the spinning world.
-* ##### I like to talk to people, and I want to become a front-end developer and leave a mark on the Internet world!
+>A person who goes in step with the spinning world.
+>I like to talk to people, and I want to become a front-end developer and leave a mark on the Internet world!
 </hr>
 
 ### Contact me 🙌
+
+
+ [![Naver Badge](https://img.shields.io/badge/Blog-ff0000?style=flat-square&logo=blog&link=https://blog.naver.com/jdk6779)](https://blog.naver.com/jdk6779)
+	
+	
 [https://blog.naver.com/jdk6779]
 
 
@@ -27,3 +32,5 @@
 
 
 [![Jeong-Dagyeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeong-Dagyeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Jeong-Dagyeong)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeong-Dagyeong&show_icons=true&theme=radical)
