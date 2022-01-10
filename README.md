@@ -4,13 +4,8 @@
 </hr>
 
 ### Contact me 🙌
-
-
- [![Naver Badge](https://img.shields.io/badge/Blog-ff0000?style=flat-square&logo=blog&link=https://blog.naver.com/jdk6779)](https://blog.naver.com/jdk6779)
+[![Naver Badge](https://img.shields.io/badge/Blog-4aa158?style=flat-square&logo=blog&link=https://blog.naver.com/jdk6779)](https://blog.naver.com/jdk6779)
 	
-	
-[https://blog.naver.com/jdk6779]
-
 
 <h4 align="center"><b>🛠 Tech Stack</b></h4>
 </br>
