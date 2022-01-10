@@ -22,5 +22,5 @@
 <img src="https://img.shields.io/badge/POSTMAN-ff8221?style=flat-square&logo=POSTMAN&logoColor=white"/></a> &nbsp
 
 
-<br/>
+
 [![Jeong-Dagyeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeong-Dagyeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Jeong-Dagyeong)
