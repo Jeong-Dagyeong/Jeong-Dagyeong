@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/Vue.js-46a327?style=flat-square&logo=Vue.js&logoColor=white"/></a> &nbsp
 
 <h4 align="center"><b>👀 Tools</b></h4>
+<p align="center">
 <img src="https://img.shields.io/badge/TRELLO-306bb0?style=flat-square&logo=TRELLO&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/FIGMA-e09963?style=flat-square&logo=FIGMA&logoColor=white"/></a> &nbsp
 
