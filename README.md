@@ -15,7 +15,7 @@ My daily life
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Vue.js-46a327?style=flat-square&logo=Vue.js&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/MONGODB-1e9e44?style=flat-square&logo=MONGODB&logoColor=white"/></a> &nbsp
+<!-- <img src="https://img.shields.io/badge/MONGODB-1e9e44?style=flat-square&logo=MONGODB&logoColor=white"/></a> &nbsp -->
 
 <br/>
 <h4 align="center"><b>👀 Tools</b></h4>
