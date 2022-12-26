@@ -4,8 +4,7 @@
 </hr>
 
 ### Contact me 🙌
-My daily life
-[![Naver Badge](https://img.shields.io/badge/Blog-4aa158?style=flat-square&logo=blog&link=https://blog.naver.com/jdk6779)](https://blog.naver.com/jdk6779)
+jdk09140@gmail.com
 	
 
 <h4 align="center"><b>🛠 Tech Stack</b></h4>
